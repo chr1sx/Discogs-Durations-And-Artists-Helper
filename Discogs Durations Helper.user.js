@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         Discogs Durations Helper
 // @namespace    https://github.com/chr1sx
-// @version      1.1
+// @version      1.0.1
 // @description  Extracts durations from track titles and moves them to duration fields
 // @match        https://www.discogs.com/release/edit/*
 // @grant        none
