@@ -5,7 +5,7 @@
 [![Install Script](https://img.shields.io/badge/Install%20Script-brightgreen?style=for-the-badge)](https://github.com/chr1sx/Discogs-Durations-And-Artists-Helper/raw/refs/heads/main/Discogs%20Durations%20And%20Artists%20Helper.user.js)
 
 This userscript is intended to help with [**Audio To Discogs CSV Exporter**](https://github.com/chr1sx/Audio-To-Discogs-CSV-Exporter),  
-as Discogs CSV does not include a durations and artists (VA) field by default.
+as Discogs CSV does not include duration or artist (VA) fields by default.
 
 </div>
 
