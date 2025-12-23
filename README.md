@@ -1,6 +1,6 @@
 <div align="center">
   
-# Discogs Durations Helper
+# Discogs Durations And Artists Helper
 
 [![Install Script](https://img.shields.io/badge/Install%20Script-brightgreen?style=for-the-badge)](https://raw.githubusercontent.com/chr1sx/Discogs-Durations-Helper/main/Discogs%20Durations%20Helper.user.js)
 
