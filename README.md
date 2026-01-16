@@ -16,7 +16,7 @@ intended to work with [**Audio To Discogs CSV Exporter**](https://github.com/chr
 - **🕛 Duration Extraction** - Extracts and assigns track durations (e.g., “3:45”) to duration fields
 - **👤 Artist Extraction** - Extracts and assigns track artists from the “Artist - Title” format
 - **👥 Feat. Artist Extraction** - Extracts and assigns featuring artists (e.g., “featuring”, “feat.”, etc.) to credits
-- **🪩 Remixer Extraction** - Extracts and assigns remixers (e.g., “remix”, “rmx by”, etc.) to credits
+- **🎶 Remixer Extraction** - Extracts and assigns remixers (e.g., “remix”, “rmx by”, etc.) to credits
 - **↩️ Undo Support** - Revert any extraction action with a single click
 - **🌓 Dark/Light Theme** - Toggle between dark and light themes
 
